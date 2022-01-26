@@ -1,1 +1,1 @@
-# node-stream-excercises
+Solutions to Stream Adventure
